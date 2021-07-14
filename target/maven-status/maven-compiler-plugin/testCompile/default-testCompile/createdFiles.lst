@@ -1,0 +1,8 @@
+com\competella\qaframework\StatsComparatorForBlindCall.class
+com\competella\qaframework\LoginTestGo.class
+com\competella\qaframework\AddQueueTestCase.class
+com\competella\qaframework\StatsTestCase.class
+com\competella\qaframework\AddScheduleTestCase.class
+com\competella\qaframework\CountQueuesTestCase.class
+com\competella\qaframework\R3LoginTestCase.class
+com\competella\qaframework\R2LoginTestCase.class

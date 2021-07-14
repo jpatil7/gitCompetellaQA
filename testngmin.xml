@@ -1,0 +1,7 @@
+<suite name="competellaTests">
+	<test name="testngTest">
+		<classes>
+			<class name="com.competella.qaframework.LoginTestCase" />
+		</classes>
+	</test>
+</suite>
